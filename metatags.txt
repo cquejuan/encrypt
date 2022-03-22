@@ -1,0 +1,11 @@
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="">
+<!--OG Reference: https://ogp.me/-->
+<!--OG, short for OGP, or Open Graph Protocol designed by Facebook which in short, allows for link previews-->
+<meta property="og:title" content="" />
+<meta property="og:type" content="document" />
+<meta property="og:url" content="" />
+<meta property="og:image" content="" />
